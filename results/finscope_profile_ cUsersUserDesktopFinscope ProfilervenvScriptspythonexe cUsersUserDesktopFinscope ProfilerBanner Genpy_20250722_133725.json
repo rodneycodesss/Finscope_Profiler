@@ -1,0 +1,90 @@
+{
+  "user_info": {
+    "name": "& \"c:/Users/User/Desktop/Finscope Profiler/.venv/Scripts/python.exe\" \"c:/Users/User/Desktop/Finscope Profiler/Banner Gen.py\"",
+    "age": "45",
+    "date": "2025-07-22 13:35:04"
+  },
+  "risk_profile": {
+    "profile": "Balanced",
+    "score": 31,
+    "description": "You seek a balance between growth and security. You're willing to \n        accept moderate risk for potentially higher returns than conservative investments.",
+    "characteristics": [
+      "Moderate risk tolerance",
+      "Balanced approach to growth and security",
+      "Willing to accept some volatility",
+      "Long-term investment perspective",
+      "Diversification-focused"
+    ],
+    "recommended_investments": [
+      "Real estate investment trusts (REITs)",
+      "Mixed mutual funds",
+      "Index funds",
+      "Dividend-paying stocks",
+      "Balanced portfolios"
+    ],
+    "suggested_allocation": "Cash/Bonds: 40-50%, Stocks: 40-50%, Alternatives: 10-20%"
+  },
+  "responses": [
+    {
+      "question": "What is your current age group?",
+      "answer": "26-35",
+      "score": 4,
+      "category": "demographics"
+    },
+    {
+      "question": "How much of your monthly income do you typically save?",
+      "answer": "10-20%",
+      "score": 3,
+      "category": "savings_habits"
+    },
+    {
+      "question": "What is your primary financial goal?",
+      "answer": "Long-term wealth building",
+      "score": 3,
+      "category": "financial_goals"
+    },
+    {
+      "question": "How do you react when your investments lose 20% of their value?",
+      "answer": "Feel concerned but remain calm",
+      "score": 3,
+      "category": "risk_tolerance"
+    },
+    {
+      "question": "What's your investment time horizon?",
+      "answer": "3-7 years",
+      "score": 3,
+      "category": "time_horizon"
+    },
+    {
+      "question": "How much investment experience do you have?",
+      "answer": "Some - have tried a few investments",
+      "score": 3,
+      "category": "experience"
+    },
+    {
+      "question": "What percentage of your portfolio would you allocate to high-risk investments?",
+      "answer": "10-25% - Conservative allocation",
+      "score": 3,
+      "category": "allocation_preference"
+    },
+    {
+      "question": "How important is it to have quick access to your invested money?",
+      "answer": "Somewhat important - within a month",
+      "score": 3,
+      "category": "liquidity_preference"
+    },
+    {
+      "question": "Which statement best describes your attitude toward debt?",
+      "answer": "I'm comfortable with moderate debt for investments",
+      "score": 3,
+      "category": "debt_attitude"
+    },
+    {
+      "question": "If you received 100,000 USD unexpectedly, what would you do?",
+      "answer": "Split between savings and safe investments",
+      "score": 3,
+      "category": "windfall_behavior"
+    }
+  ],
+  "assessment_version": "1.0"
+}

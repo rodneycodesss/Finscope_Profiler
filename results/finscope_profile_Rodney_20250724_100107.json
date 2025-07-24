@@ -1,0 +1,90 @@
+{
+  "user_info": {
+    "name": "Rodney",
+    "age": "27",
+    "date": "2025-07-24 09:59:41"
+  },
+  "risk_profile": {
+    "profile": "Aggressive",
+    "score": 36,
+    "description": "You're willing to take significant risks for potentially high returns. \n        You can handle volatility and have a long-term investment horizon.",
+    "characteristics": [
+      "High risk tolerance",
+      "Growth-focused mindset",
+      "Comfortable with volatility",
+      "Long-term investment horizon",
+      "Seeks maximum returns"
+    ],
+    "recommended_investments": [
+      "Cryptocurrency and digital assets",
+      "Growth stocks and equity funds",
+      "Startup investments and private equity",
+      "Commodities and precious metals",
+      "International/emerging market funds"
+    ],
+    "suggested_allocation": "Cash/Bonds: 10-20%, Stocks: 60-70%, Alternatives: 20-30%"
+  },
+  "responses": [
+    {
+      "question": "What is your current age group?",
+      "answer": "26-35",
+      "score": 4,
+      "category": "demographics"
+    },
+    {
+      "question": "How much of your monthly income do you typically save?",
+      "answer": "10-20%",
+      "score": 3,
+      "category": "savings_habits"
+    },
+    {
+      "question": "What is your primary financial goal?",
+      "answer": "Generating current income",
+      "score": 4,
+      "category": "financial_goals"
+    },
+    {
+      "question": "How do you react when your investments lose 20% of their value?",
+      "answer": "See it as a buying opportunity",
+      "score": 4,
+      "category": "risk_tolerance"
+    },
+    {
+      "question": "What's your investment time horizon?",
+      "answer": "1-3 years",
+      "score": 2,
+      "category": "time_horizon"
+    },
+    {
+      "question": "How much investment experience do you have?",
+      "answer": "Extensive - sophisticated investment strategies",
+      "score": 5,
+      "category": "experience"
+    },
+    {
+      "question": "What percentage of your portfolio would you allocate to high-risk investments?",
+      "answer": "10-25% - Conservative allocation",
+      "score": 3,
+      "category": "allocation_preference"
+    },
+    {
+      "question": "How important is it to have quick access to your invested money?",
+      "answer": "Extremely important - need immediate access",
+      "score": 1,
+      "category": "liquidity_preference"
+    },
+    {
+      "question": "Which statement best describes your attitude toward debt?",
+      "answer": "I maximize debt to amplify returns",
+      "score": 5,
+      "category": "debt_attitude"
+    },
+    {
+      "question": "If you received 100,000 USD unexpectedly, what would you do?",
+      "answer": "Put it all in high-growth investments",
+      "score": 5,
+      "category": "windfall_behavior"
+    }
+  ],
+  "assessment_version": "1.0"
+}
