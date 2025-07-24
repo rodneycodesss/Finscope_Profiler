@@ -513,5 +513,15 @@ def main():
     print(f"\n{Fore.CYAN}Stay financially literate! 💰📈{Style.RESET_ALL}")
 
 
+def launch_gui():
+    import finscope_profiler_gui
+
 if __name__ == "__main__":
-    main()
+    print("Select mode:")
+    print("1. Command Line (CLI)")
+    print("2. Graphical (GUI)")
+    choice = input("Enter 1 for CLI or 2 for GUI: ").strip()
+    if choice == "2":
+        launch_gui()
+    else:
+        main()
