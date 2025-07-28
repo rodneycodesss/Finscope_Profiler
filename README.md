@@ -1,6 +1,6 @@
 # Finscope Profiler
 
-Finscope Profiler is an interactive command-line tool designed to help users understand their investment risk tolerance and receive tailored investment recommendations. It provides a fun, educational assessment to profile your financial personality and suggest suitable investment strategies.
+Finscope Profiler is an interactive tool designed to help users understand their investment risk tolerance and receive tailored investment recommendations. It provides a fun, educational assessment to profile your financial personality and suggest suitable investment strategies.
 
 ## Features
 - Interactive risk assessment questionnaire
@@ -8,7 +8,7 @@ Finscope Profiler is an interactive command-line tool designed to help users und
 - Tailored investment recommendations
 - Score breakdown by category
 - Results saved for future reference
-- Colorful, user-friendly terminal interface
+- Colorful, user-friendly terminal and GUI interface
 
 ## Getting Started
 
@@ -27,15 +27,40 @@ Finscope Profiler is an interactive command-line tool designed to help users und
    ```
 
 ## Usage
-Run the profiler from your terminal:
+You can use Finscope Profiler in two ways:
+
+### 1. Command Line (CLI) Version
+Run:
 ```sh
 python finscope_profiler.py
 ```
+Choose `1` when prompted for CLI mode.
+
+### 2. Graphical (GUI) Version
+Run:
+```sh
+python finscope_profiler.py
+```
+Choose `2` when prompted for GUI mode.
+
+Or run the GUI directly:
+```sh
+python finscope_profiler_gui.py
+```
+
 Follow the prompts to complete the assessment and view your personalized results.
 
 ## Project Structure
-- `finscope_profiler.py` — Main application script
+- `finscope_profiler.py` — Main application script (choose CLI or GUI)
+- `finscope_profiler_gui.py` — Full Tkinter GUI version
 - `Banner Gen.py` — Banner rendering utility
 - `requirements.txt` — Python dependencies
 - `results/` — Saved assessment results
+
+## Contributing
+Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
+
+---
+
+*Finscope Profiler is for educational purposes only. Always consult a financial advisor for personalized investment advice.*
 
