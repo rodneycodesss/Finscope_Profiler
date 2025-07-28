@@ -57,10 +57,5 @@ Follow the prompts to complete the assessment and view your personalized results
 - `requirements.txt` — Python dependencies
 - `results/` — Saved assessment results
 
-## Contributing
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 *Finscope Profiler is for educational purposes only. Always consult a financial advisor for personalized investment advice.*
 
